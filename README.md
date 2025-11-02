@@ -1,6 +1,6 @@
 CampusBuddy (Backend)-
 CampusBuddy is a smart campus assistance platform that helps students access academic tools, notes, and AI-based features in one place.
-This backend is built using Node.js, Express, and MongoDB, with OpenAI integration for intelligent responses and chat support.
+This backend is built using Node.js, Express, and MongoDB, with Gemini AI integration for intelligent responses and chat support.
 
 Features-
 RESTful API built with Express.js
